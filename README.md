@@ -21,7 +21,7 @@ This is a **User Management System** built with **TypeScript**. It demonstrates 
    ```
 2. Navigate to the project directory:
    ```sh
-   cd user-management-system
+   cd '.\#01 Comprehensive TypeScript Project\'
    ```
 3. Install dependencies (if needed):
    ```sh
