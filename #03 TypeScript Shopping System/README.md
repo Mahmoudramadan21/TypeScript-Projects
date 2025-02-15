@@ -16,11 +16,11 @@ This project is a simple shopping system implemented in TypeScript. It includes 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/typescript-shopping-system.git
+   git clone https://github.com/Mahmoudramadan21/TypeScript-Projects.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd typescript-shopping-system
+   cd "#03 TypeScript Shopping System"
    ```
 3. Install dependencies (if applicable):
    ```sh
