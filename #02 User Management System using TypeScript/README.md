@@ -17,11 +17,11 @@ This is a **User Management System** built with **TypeScript**. It demonstrates 
 ## 📜 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <your-repo-link>
+   git clone https://github.com/Mahmoudramadan21/TypeScript-Projects.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd user-management-system
+   cd "#02 User Management System using TypeScript"
    ```
 3. Install dependencies (if needed):
    ```sh

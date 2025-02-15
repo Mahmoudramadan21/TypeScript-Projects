@@ -23,17 +23,27 @@ library-management-system/
 ```
 
 ## 🛠️ Setup
-### **1. Install TypeScript**
+### **1. Clone the Repository**
 ```sh
-npm install -g typescript
+git clone https://github.com/Mahmoudramadan21/TypeScript-Projects.git
 ```
 
-### **2. Compile TypeScript**
+### **2. Navigate to the Project Directory**
+```sh
+cd TypeScript-Projects/"#01 Comprehensive TypeScript Project"
+```
+
+### **3. Install Dependencies**
+```sh
+npm install
+```
+
+### **4. Compile TypeScript**
 ```sh
 tsc
 ```
 
-### **3. Run the project**
+### **5. Run the Project**
 ```sh
 node dist/index.js
 ```

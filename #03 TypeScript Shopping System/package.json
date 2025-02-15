@@ -1,0 +1,12 @@
+{
+  "name": "typescript-shopping-system",
+  "version": "1.0.0",
+  "description": "## Overview This project is a simple shopping system implemented in TypeScript. It includes functionality for managing products, orders, payments, and user shopping carts using TypeScript's features like enums, types, tuples, abstract classes, and generics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
